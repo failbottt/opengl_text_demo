@@ -1,0 +1,5 @@
+/opengl_text_demo
+Dependencies
+*.exe
+*.obj
+/tags
