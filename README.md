@@ -12,8 +12,8 @@ This is a simple, C-based demo of how to render text to a screen using Opengl.
 ### How to build
 
 Prerequisites: 
-	* You'll need to compile GLFW (located in `./external/glfw`) for your platform. You can read the instructions [here](https://www.glfw.org/docs/3.0/compile.html).
-	* You'll need to install FreeType2 to your machine, and potentially update the include path for freetype (`-I/usr/include/freetype2`) in the Makefile
+- You'll need to compile GLFW (located in `./external/glfw`) for your platform. You can read the instructions [here](https://www.glfw.org/docs/3.0/compile.html).
+- You'll need to install FreeType2 to your machine, and potentially update the include path for freetype (`-I/usr/include/freetype2`) in the Makefile
 
 Then run `make && ./opengl_text_demo` to compile and run the demo.
 
